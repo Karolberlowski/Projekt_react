@@ -18,6 +18,7 @@ const useStyles = makeStyles((theme) => ({
     overflow: 'hidden',
     origin: "center",
     backgroundColor: theme.palette.background.paper,
+    position: "top: 200px",
   },
 
   gridList: {
